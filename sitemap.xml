@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url><loc>https://crazytime.rest/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://crazytime.rest/ctime-login.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://crazytime.rest/ctime-register.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://crazytime.rest/ctime-bonus.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://crazytime.rest/ctime-slots.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://crazytime.rest/ctime-odds.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://crazytime.rest/ctime-crash.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://crazytime.rest/ctime-live.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://crazytime.rest/ctime-app.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://crazytime.rest/ctime-pay.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://crazytime.rest/ctime-help.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+</urlset>
